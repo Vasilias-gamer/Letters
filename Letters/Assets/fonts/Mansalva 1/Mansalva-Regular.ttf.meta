@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 21ac071ef3725664fac9d3ef04bcefc2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mansalva
+  fontNames:
+  - Mansalva
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1dead54ccd1da394f9d84f38d28de78d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
